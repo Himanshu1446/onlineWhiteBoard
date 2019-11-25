@@ -1,9 +1,6 @@
 # Whiteboard
 
 It is a collaborative real time web-based whiteboard. It can be used for the purpose of teaching.
-
-[Original repository on github](https://github.com/Hemant-Parihar/onlineWhiteboard)
-
 **How to run the code?**
 
 **Step 1:** If you have php Apache server configuration, you can skip this section. If not then you have to follow these steps.
